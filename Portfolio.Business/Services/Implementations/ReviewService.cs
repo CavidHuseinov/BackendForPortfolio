@@ -45,7 +45,7 @@ namespace Portfolio.Business.Services.Implementations
             if (dataId == null) throw new ArgumentNullException($"Blog tapilmadi {id}");
             await _command.DeleteAsync(dataId);
             await _save.SaveChangesAsync();
-            _memory.Remove(dataId);
+            _memory.Remove(cacheKey);
         }
 
         public async Task<ICollection<ReviewDto>> GetAllAsync()

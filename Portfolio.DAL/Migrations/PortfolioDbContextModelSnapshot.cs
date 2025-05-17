@@ -44,6 +44,26 @@ namespace Portfolio.DAL.Migrations
                     b.ToTable("Blogs");
                 });
 
+            modelBuilder.Entity("Portfolio.Core.Entities.Review", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("BlogId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BlogId");
+
+                    b.ToTable("Reviews");
+                });
+
             modelBuilder.Entity("Portfolio.Core.Entities.Blog", b =>
                 {
                     b.OwnsOne("Portfolio.Core.ValudObjects.CreatedAtVO", "CreatedAt", b1 =>
@@ -65,6 +85,42 @@ namespace Portfolio.DAL.Migrations
 
                     b.Navigation("CreatedAt")
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Portfolio.Core.Entities.Review", b =>
+                {
+                    b.HasOne("Portfolio.Core.Entities.Blog", "Blog")
+                        .WithMany("Reviews")
+                        .HasForeignKey("BlogId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.OwnsOne("Portfolio.Core.ValudObjects.CreatedAtVO", "CreatedAt", b1 =>
+                        {
+                            b1.Property<Guid>("ReviewId")
+                                .HasColumnType("uniqueidentifier");
+
+                            b1.Property<DateTime>("Date")
+                                .HasColumnType("datetime2")
+                                .HasColumnName("CreatedAt");
+
+                            b1.HasKey("ReviewId");
+
+                            b1.ToTable("Reviews");
+
+                            b1.WithOwner()
+                                .HasForeignKey("ReviewId");
+                        });
+
+                    b.Navigation("Blog");
+
+                    b.Navigation("CreatedAt")
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Portfolio.Core.Entities.Blog", b =>
+                {
+                    b.Navigation("Reviews");
                 });
 #pragma warning restore 612, 618
         }

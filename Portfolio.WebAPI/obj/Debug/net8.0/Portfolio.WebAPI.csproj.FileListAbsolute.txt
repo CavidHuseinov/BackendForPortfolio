@@ -152,3 +152,7 @@ D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Debug\net8.0\Portfolio.WebAPI.ge
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Debug\net8.0\ref\Portfolio.WebAPI.dll
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\AutoMapper.dll
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Debug\net8.0\Portfolio.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\FluentValidation.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\AWSSDK.S3.dll

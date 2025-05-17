@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Portfolio.Business.Helpers.DTOs.Blog;
 using Portfolio.Business.Helpers.DTOs.Review;
-using Portfolio.Business.Services.Implementations;
+using Portfolio.Business.Services.Interfaces;
 
 namespace Portfolio.WebAPI.Controllers
 {
@@ -10,9 +9,9 @@ namespace Portfolio.WebAPI.Controllers
     [ApiController]
     public class ReviewController : ControllerBase
     {
-        private readonly ReviewService _services;
+        private readonly IReviewService _services;
 
-        public ReviewController(ReviewService services)
+        public ReviewController(IReviewService services)
         {
             _services = services;
         }

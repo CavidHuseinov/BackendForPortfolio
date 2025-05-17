@@ -1,0 +1,11 @@
+D:\Projects\Portfolio.Core\Portfolio.Core\bin\Release\net8.0\Portfolio.Core.deps.json
+D:\Projects\Portfolio.Core\Portfolio.Core\bin\Release\net8.0\Portfolio.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.Core\bin\Release\net8.0\Portfolio.Core.pdb
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\Portfolio.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\Portfolio.Core.AssemblyInfoInputs.cache
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\Portfolio.Core.AssemblyInfo.cs
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\Portfolio.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\Portfolio.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\refint\Portfolio.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\Portfolio.Core.pdb
+D:\Projects\Portfolio.Core\Portfolio.Core\obj\Release\net8.0\ref\Portfolio.Core.dll

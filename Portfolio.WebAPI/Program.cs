@@ -1,5 +1,6 @@
 
 using Portfolio.Business;
+using Portfolio.Core.Settings;
 using Portfolio.DAL;
 
 namespace Portfolio.WebAPI
@@ -16,6 +17,7 @@ namespace Portfolio.WebAPI
             DALServiceRegistration.DIRepository(builder.Services);
             BusinessServiceRegistration.AddBusiness(builder.Services);
             BusinessServiceRegistration.DIServices(builder.Services);
+            builder.Services.Configure<AmazonSettings>(builder.Configuration.GetSection("AmazonSettings"));
 
 
             var app = builder.Build();

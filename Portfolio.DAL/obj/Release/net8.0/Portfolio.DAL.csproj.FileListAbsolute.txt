@@ -1,0 +1,17 @@
+D:\Projects\Portfolio.Core\Portfolio.DAL\bin\Release\net8.0\Portfolio.DAL.deps.json
+D:\Projects\Portfolio.Core\Portfolio.DAL\bin\Release\net8.0\Portfolio.DAL.runtimeconfig.json
+D:\Projects\Portfolio.Core\Portfolio.DAL\bin\Release\net8.0\Portfolio.DAL.dll
+D:\Projects\Portfolio.Core\Portfolio.DAL\bin\Release\net8.0\Portfolio.DAL.pdb
+D:\Projects\Portfolio.Core\Portfolio.DAL\bin\Release\net8.0\Portfolio.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.DAL\bin\Release\net8.0\Portfolio.Core.pdb
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.csproj.AssemblyReference.cache
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.AssemblyInfoInputs.cache
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.AssemblyInfo.cs
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfoli.58653777.Up2Date
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.dll
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\refint\Portfolio.DAL.dll
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.pdb
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\Portfolio.DAL.genruntimeconfig.cache
+D:\Projects\Portfolio.Core\Portfolio.DAL\obj\Release\net8.0\ref\Portfolio.DAL.dll

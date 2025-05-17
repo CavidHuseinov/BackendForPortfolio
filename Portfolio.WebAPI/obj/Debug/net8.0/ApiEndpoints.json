@@ -56,5 +56,63 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.ReviewController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Review/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.ReviewController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/Review/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Portfolio.Business.Helpers.DTOs.Review.CreateReviewDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.ReviewController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Review/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.ReviewController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Review/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

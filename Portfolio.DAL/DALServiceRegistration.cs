@@ -17,7 +17,7 @@ namespace Portfolio.DAL
         {
             services.AddDbContext<PortfolioDbContext>(opt =>
             {
-                opt.UseSqlServer(config.GetConnectionString("Default"));
+                opt.UseSqlServer(config.GetConnectionString("Deploy"));
             });
         }
         public static void DIRepository (this IServiceCollection services)
