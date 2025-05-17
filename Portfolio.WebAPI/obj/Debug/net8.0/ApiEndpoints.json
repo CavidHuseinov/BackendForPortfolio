@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.BlogController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Blog/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.BlogController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/Blog/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Portfolio.Business.Helpers.DTOs.Blog.CreateBlogDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.BlogController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Blog/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.WebAPI.Controllers.BlogController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Blog/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

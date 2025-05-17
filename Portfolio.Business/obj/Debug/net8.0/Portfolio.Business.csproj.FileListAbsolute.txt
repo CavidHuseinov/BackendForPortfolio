@@ -1,0 +1,17 @@
+D:\Projects\Portfolio.Core\Portfolio.Business\bin\Debug\net8.0\Portfolio.Business.deps.json
+D:\Projects\Portfolio.Core\Portfolio.Business\bin\Debug\net8.0\Portfolio.Business.dll
+D:\Projects\Portfolio.Core\Portfolio.Business\bin\Debug\net8.0\Portfolio.Business.pdb
+D:\Projects\Portfolio.Core\Portfolio.Business\bin\Debug\net8.0\Portfolio.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.Business\bin\Debug\net8.0\Portfolio.DAL.dll
+D:\Projects\Portfolio.Core\Portfolio.Business\bin\Debug\net8.0\Portfolio.DAL.pdb
+D:\Projects\Portfolio.Core\Portfolio.Business\bin\Debug\net8.0\Portfolio.Core.pdb
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfolio.Business.csproj.AssemblyReference.cache
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfolio.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfolio.Business.AssemblyInfoInputs.cache
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfolio.Business.AssemblyInfo.cs
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfolio.Business.csproj.CoreCompileInputs.cache
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfoli.BB45B524.Up2Date
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfolio.Business.dll
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\refint\Portfolio.Business.dll
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\Portfolio.Business.pdb
+D:\Projects\Portfolio.Core\Portfolio.Business\obj\Debug\net8.0\ref\Portfolio.Business.dll
