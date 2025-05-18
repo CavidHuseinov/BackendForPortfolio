@@ -54,7 +54,9 @@ namespace Portfolio.Business.Services.Implementations
             {
                 return _mapper.Map<ICollection<ReviewDto>>(cachedDict);
             }
-            var allData = await _query.GetAllAsync().ToListAsync();
+            var allData = await _query.GetAllAsync()
+                .OrderByDescending(x=>x.CreatedAt.Date)
+                .ToListAsync();
             var mappedData = _mapper.Map<ICollection<ReviewDto>>(allData);
             _memory.Set(cacheKey, mappedData);
             return mappedData;

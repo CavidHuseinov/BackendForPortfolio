@@ -5,6 +5,47 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/AWSFileUpload/create-img": {
+      "post": {
+        "tags": [
+          "AWSFileUpload"
+        ],
+        "parameters": [
+          {
+            "name": "FolderName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "File": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "File": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Blog/all": {
       "get": {
         "tags": [
@@ -17,7 +58,7 @@
         }
       }
     },
-    "/api/Blog/id": {
+    "/api/Blog/{id}": {
       "get": {
         "tags": [
           "Blog"
@@ -25,7 +66,8 @@
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -46,19 +88,31 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/CreateBlogDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateBlogDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateBlogDto"
+                "type": "object",
+                "properties": {
+                  "Title": {
+                    "type": "string"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "ImgUrl": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Title": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "ImgUrl": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -70,7 +124,7 @@
         }
       }
     },
-    "/api/Blog/delete": {
+    "/api/Blog/delete/{id}": {
       "delete": {
         "tags": [
           "Blog"
@@ -78,7 +132,8 @@
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -104,7 +159,7 @@
         }
       }
     },
-    "/api/Review/id": {
+    "/api/Review/{id}": {
       "get": {
         "tags": [
           "Review"
@@ -112,7 +167,8 @@
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -182,28 +238,14 @@
   },
   "components": {
     "schemas": {
-      "CreateBlogDto": {
-        "type": "object",
-        "properties": {
-          "title": {
-            "type": "string",
-            "nullable": true
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
-          "imgUrl": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "CreateReviewDto": {
         "type": "object",
         "properties": {
           "content": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
             "type": "string",
             "nullable": true
           },

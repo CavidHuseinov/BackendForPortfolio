@@ -154,3 +154,6 @@ D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\refint\Portfolio.
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\Portfolio.WebAPI.pdb
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\Portfolio.WebAPI.genruntimeconfig.cache
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\ref\Portfolio.WebAPI.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Release\net8.0\AWSSDK.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Release\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Release\net8.0\AWSSDK.S3.dll

@@ -38,6 +38,20 @@
           }
         }
       },
+      "AWSSDK.Extensions.NETCore.Setup/4.0.1": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.0.5",
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.Extensions.NETCore.Setup.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
       "AWSSDK.S3/4.0.0.5": {
         "dependencies": {
           "AWSSDK.Core": "4.0.0.5"
@@ -652,6 +666,7 @@
       },
       "Portfolio.DAL/1.0.0": {
         "dependencies": {
+          "AWSSDK.Extensions.NETCore.Setup": "4.0.1",
           "Microsoft.EntityFrameworkCore": "8.0.16",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16",
           "Portfolio.Core": "1.0.0"
@@ -684,6 +699,13 @@
       "sha512": "sha512-NG31J9azTmY1GKOZd+MFGLUsuD472AGz4BUceTiw0pdYkexD+xJ8kA87hDp/OTk2b6xgrhkQIpnttzIekkMSvw==",
       "path": "awssdk.core/4.0.0.5",
       "hashPath": "awssdk.core.4.0.0.5.nupkg.sha512"
+    },
+    "AWSSDK.Extensions.NETCore.Setup/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-avdsCcQSdw7iQpHAyKwcA15DmpwUXFZ2jV8YjNgIQq6T4hiJ8/ucFgAwxamibvUB3Wd06FXkWXh2AK8pWGfflA==",
+      "path": "awssdk.extensions.netcore.setup/4.0.1",
+      "hashPath": "awssdk.extensions.netcore.setup.4.0.1.nupkg.sha512"
     },
     "AWSSDK.S3/4.0.0.5": {
       "type": "package",

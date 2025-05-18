@@ -3,96 +3,140 @@
   "WorkspaceRootPath": "D:\\Projects\\Portfolio.Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\controllers\\awsfileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\controllers\\awsfileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\implementations\\awsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\implementations\\awsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\fileupload\\createimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\fileupload\\createimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\settings\\amazonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\settings\\amazonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\interfaces\\iawsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\interfaces\\iawsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\fileupload\\imageurldrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\fileupload\\imageurldrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\valueobjects\\createdatvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\valueobjects\\createdatvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\repositories\\implementations\\generics\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\repositories\\implementations\\generics\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\blog\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\blog\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\repositories\\implementations\\generics\\queryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\repositories\\implementations\\generics\\queryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\repositories\\implementations\\blogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\repositories\\implementations\\blogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\portfolio.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\portfolio.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\blog\\createblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\blog\\createblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250517215719_ThirdMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Portfolio.DAL\\Migrations\\20250517215719_ThirdMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518140248_akjsdkljasds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Portfolio.DAL\\Migrations\\20250518140248_akjsdkljasds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\implementations\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\implementations\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\valudobjects\\createdatvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\valudobjects\\createdatvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518135341_akjsdkljasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Portfolio.DAL\\Migrations\\20250518135341_akjsdkljasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\migrations\\20250518093304_aslkds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\migrations\\20250518093304_aslkds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\portfolio.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\portfolio.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\controllers\\awsfileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\controllers\\awsfileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250517214622_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Portfolio.DAL\\Migrations\\20250517214622_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\portfolio.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\portfolio.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\implementations\\awsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\implementations\\awsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\settings\\amazonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\settings\\amazonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\fileupload\\createimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\fileupload\\createimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\interfaces\\iawsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\interfaces\\iawsimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\fileupload\\imageurldrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\fileupload\\imageurldrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\blog\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\blog\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\validatos\\review\\createdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,26 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|d:\\projects\\portfolio.core\\portfolio.webapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB7B44-8AB7-4C0A-93A4-57398A6F6D16}|Portfolio.WebAPI\\Portfolio.WebAPI.csproj|solutionrelative:portfolio.webapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\repositories\\implementations\\generics\\queryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\repositories\\implementations\\generics\\queryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\repositories\\implementations\\generics\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\repositories\\implementations\\generics\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,28 +167,12 @@
       "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\context\\portfoliodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\helpers\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\helpers\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|d:\\projects\\portfolio.core\\portfolio.business\\portfolio.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0430248E-EAC1-452B-9AB8-AAB4FC53BEDC}|Portfolio.Business\\Portfolio.Business.csproj|solutionrelative:portfolio.business\\portfolio.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|d:\\projects\\portfolio.core\\portfolio.core\\portfolio.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C552B849-DBC4-48CC-87E8-12221C2E2517}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\portfolio.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\repositories\\interfaces\\iblogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\repositories\\interfaces\\iblogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\repositories\\implementations\\blogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\repositories\\implementations\\blogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -181,6 +189,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\migrations\\20250517193107_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\migrations\\20250517193107_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\migrations\\20250517215719_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\migrations\\20250517215719_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\migrations\\20250517214622_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\migrations\\20250517214622_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\migrations\\20250518064927_allcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\migrations\\20250518064927_allcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|d:\\projects\\portfolio.core\\portfolio.dal\\migrations\\20250518092838_aslkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC5FCB-2871-4864-BA58-80BFDAD7EC78}|Portfolio.DAL\\Portfolio.DAL.csproj|solutionrelative:portfolio.dal\\migrations\\20250518092838_aslkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -199,123 +223,253 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AWSFileUploadController.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
-              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
-              "RelativeToolTip": "Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Title": "CreatedAtVO.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\ValueObjects\\CreatedAtVO.cs",
+              "RelativeDocumentMoniker": "Portfolio.Core\\ValueObjects\\CreatedAtVO.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\ValueObjects\\CreatedAtVO.cs",
+              "RelativeToolTip": "Portfolio.Core\\ValueObjects\\CreatedAtVO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:15:42.408Z",
+              "WhenOpened": "2025-05-17T19:17:25.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AmazonSettings.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Settings\\AmazonSettings.cs",
-              "RelativeDocumentMoniker": "Portfolio.Core\\Settings\\AmazonSettings.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Settings\\AmazonSettings.cs",
-              "RelativeToolTip": "Portfolio.Core\\Settings\\AmazonSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:12:28.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AWSImageService.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
-              "RelativeToolTip": "Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:08:18.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IAWSImageService.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
-              "RelativeToolTip": "Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:08:04.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "BlogService.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\BlogService.cs",
               "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Implementations\\BlogService.cs",
               "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\BlogService.cs",
               "RelativeToolTip": "Portfolio.Business\\Services\\Implementations\\BlogService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAlwDYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T20:19:23.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Program.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Program.cs",
-              "RelativeToolTip": "Portfolio.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Portfolio.WebAPI\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:02:24.677Z",
+              "WhenOpened": "2025-05-17T20:36:11.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Portfolio.WebAPI\\appsettings.json",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\appsettings.json",
-              "RelativeToolTip": "Portfolio.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T19:02:22.915Z",
+              "DocumentIndex": 7,
+              "Title": "Portfolio.Business.csproj",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Portfolio.Business.csproj",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Portfolio.Business.csproj",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Portfolio.Business.csproj",
+              "RelativeToolTip": "Portfolio.Business\\Portfolio.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T20:16:04.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:41:22.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "QueryRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:21:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:20:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\DALServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\DALServiceRegistration.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\DALServiceRegistration.cs",
+              "RelativeToolTip": "Portfolio.DAL\\DALServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:22:35.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBlogDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
+              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:17:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250518140248_akjsdkljasds.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518140248_akjsdkljasds.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250518140248_akjsdkljasds.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518140248_akjsdkljasds.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Migrations\\20250518140248_akjsdkljasds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:02:49.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
+              "RelativeToolTip": "Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:23:40.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:03:02.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
+              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:17:22.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:21:18.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Portfolio.Core\\Entities\\Review.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Review.cs",
+              "RelativeToolTip": "Portfolio.Core\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:15:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "Portfolio.Core\\Entities\\Blog.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Blog.cs",
+              "RelativeToolTip": "Portfolio.Core\\Entities\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:06:47.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250518135341_akjsdkljasd.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518135341_akjsdkljasd.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250518135341_akjsdkljasd.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518135341_akjsdkljasd.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Migrations\\20250518135341_akjsdkljasd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:53:41.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateReviewDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
+              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:21:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "BusinessServiceRegistration.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\BusinessServiceRegistration.cs",
               "RelativeDocumentMoniker": "Portfolio.Business\\BusinessServiceRegistration.cs",
               "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\BusinessServiceRegistration.cs",
               "RelativeToolTip": "Portfolio.Business\\BusinessServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T20:33:34.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateImageUploadDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
-              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:08:54.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\Mapper\\MappingProfile.cs",
@@ -328,7 +482,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
+              "Title": "20250518093304_aslkds.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518093304_aslkds.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250518093304_aslkds.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518093304_aslkds.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Migrations\\20250518093304_aslkds.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:33:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Portfolio.Core.csproj",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Portfolio.Core.csproj",
+              "RelativeDocumentMoniker": "Portfolio.Core\\Portfolio.Core.csproj",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Portfolio.Core.csproj",
+              "RelativeToolTip": "Portfolio.Core\\Portfolio.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T19:03:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AWSFileUploadController.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
+              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
+              "RelativeToolTip": "Portfolio.WebAPI\\Controllers\\AWSFileUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:15:42.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Program.cs",
+              "RelativeToolTip": "Portfolio.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:02:24.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250518092838_aslkd.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518092838_aslkd.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250518092838_aslkd.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518092838_aslkd.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Migrations\\20250518092838_aslkd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:28:39.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Portfolio.WebAPI\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:40:11.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Portfolio.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T19:02:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAWSImageService.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
+              "RelativeToolTip": "Portfolio.Business\\Services\\Interfaces\\IAWSImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:08:04.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250518064927_allCode.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518064927_allCode.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250518064927_allCode.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250518064927_allCode.cs",
+              "RelativeToolTip": "Portfolio.DAL\\Migrations\\20250518064927_allCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:49:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Portfolio.DAL.csproj",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Portfolio.DAL.csproj",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\Portfolio.DAL.csproj",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Portfolio.DAL.csproj",
+              "RelativeToolTip": "Portfolio.DAL\\Portfolio.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T06:49:38.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AWSImageService.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
+              "RelativeToolTip": "Portfolio.Business\\Services\\Implementations\\AWSImageService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:08:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AmazonSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Settings\\AmazonSettings.cs",
+              "RelativeDocumentMoniker": "Portfolio.Core\\Settings\\AmazonSettings.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Settings\\AmazonSettings.cs",
+              "RelativeToolTip": "Portfolio.Core\\Settings\\AmazonSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:12:28.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:23:10.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateImageUploadDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
+              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
+              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
+              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\FileUpload\\CreateImageUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:08:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "ImageUrlDrto.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\FileUpload\\ImageUrlDrto.cs",
               "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\FileUpload\\ImageUrlDrto.cs",
@@ -341,20 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Blog.cs",
-              "RelativeDocumentMoniker": "Portfolio.Core\\Entities\\Blog.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Blog.cs",
-              "RelativeToolTip": "Portfolio.Core\\Entities\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:06:47.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 47,
               "Title": "20250517215719_ThirdMigration.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250517215719_ThirdMigration.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250517215719_ThirdMigration.cs",
@@ -367,33 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreatedAtVO.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\ValudObjects\\CreatedAtVO.cs",
-              "RelativeDocumentMoniker": "Portfolio.Core\\ValudObjects\\CreatedAtVO.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\ValudObjects\\CreatedAtVO.cs",
-              "RelativeToolTip": "Portfolio.Core\\ValudObjects\\CreatedAtVO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:17:25.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateBlogDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
-              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Blog\\CreateBlogDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:17:03.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
               "Title": "BlogDto.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Blog\\BlogDto.cs",
               "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Blog\\BlogDto.cs",
@@ -406,59 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReviewDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
-              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Review\\ReviewDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:21:18.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DALServiceRegistration.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\DALServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\DALServiceRegistration.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\DALServiceRegistration.cs",
-              "RelativeToolTip": "Portfolio.DAL\\DALServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:22:35.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Portfolio.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:03:02.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ReviewController.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\ReviewController.cs",
-              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Controllers\\ReviewController.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\ReviewController.cs",
-              "RelativeToolTip": "Portfolio.WebAPI\\Controllers\\ReviewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:40:11.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "BlogConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Configuration\\BlogConfiguration.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Configuration\\BlogConfiguration.cs",
@@ -466,37 +711,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Configuration\\BlogConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:11:40.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Review.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Review.cs",
-              "RelativeDocumentMoniker": "Portfolio.Core\\Entities\\Review.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Entities\\Review.cs",
-              "RelativeToolTip": "Portfolio.Core\\Entities\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:15:04.618Z",
+              "WhenOpened": "2025-05-17T19:11:40.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ReviewService.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
-              "RelativeToolTip": "Portfolio.Business\\Services\\Implementations\\ReviewService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwC4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:23:40.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "CreateDtoValidator.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\Validatos\\Review\\CreateDtoValidator.cs",
               "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\Validatos\\Review\\CreateDtoValidator.cs",
@@ -509,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 48,
               "Title": "20250517214622_SecondMigration.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250517214622_SecondMigration.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250517214622_SecondMigration.cs",
@@ -522,31 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CreateReviewDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
-              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Review\\CreateReviewDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:21:25.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IReviewService.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
-              "RelativeToolTip": "Portfolio.Business\\Services\\Interfaces\\IReviewService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:23:10.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "ReviewConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Configuration\\ReviewConfiguration.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Configuration\\ReviewConfiguration.cs",
@@ -554,47 +750,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Configuration\\ReviewConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:16:47.387Z"
+              "WhenOpened": "2025-05-17T21:16:47.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "QueryRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
-              "RelativeToolTip": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\QueryRepo.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:21:50.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CommandRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
-              "RelativeToolTip": "Portfolio.DAL\\Repositories\\Implementations\\Generics\\CommandRepo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:20:45.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "Portfolio.WebAPI\\Controllers\\BlogController.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.WebAPI\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "Portfolio.WebAPI\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:36:11.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "IBlogService.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Services\\Interfaces\\IBlogService.cs",
               "RelativeDocumentMoniker": "Portfolio.Business\\Services\\Interfaces\\IBlogService.cs",
@@ -602,11 +763,12 @@
               "RelativeToolTip": "Portfolio.Business\\Services\\Interfaces\\IBlogService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:19:14.424Z"
+              "WhenOpened": "2025-05-17T20:19:14.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "ReviewRepo.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\ReviewRepo.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Implementations\\ReviewRepo.cs",
@@ -614,11 +776,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Repositories\\Implementations\\ReviewRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:20:09.3Z"
+              "WhenOpened": "2025-05-17T21:20:09.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "IReviewRepo.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Interfaces\\IReviewRepo.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Interfaces\\IReviewRepo.cs",
@@ -626,35 +789,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Repositories\\Interfaces\\IReviewRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:19:57.387Z"
+              "WhenOpened": "2025-05-17T21:19:57.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Portfolio.Business.csproj",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Portfolio.Business.csproj",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Portfolio.Business.csproj",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Portfolio.Business.csproj",
-              "RelativeToolTip": "Portfolio.Business\\Portfolio.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-17T20:16:04.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "RelativeDocumentMoniker": "Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "RelativeToolTip": "Portfolio.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T20:17:22.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "PortfolioDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Context\\PortfolioDbContext.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Context\\PortfolioDbContext.cs",
@@ -662,11 +802,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Context\\PortfolioDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:04:01.567Z"
+              "WhenOpened": "2025-05-17T19:04:01.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\UnitOfWorks\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\UnitOfWorks\\UnitOfWork.cs",
@@ -674,23 +815,12 @@
               "RelativeToolTip": "Portfolio.DAL\\UnitOfWorks\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:27:45.028Z"
+              "WhenOpened": "2025-05-17T19:27:45.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "BlogRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
-              "RelativeToolTip": "Portfolio.DAL\\Repositories\\Implementations\\BlogRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:41:22.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "20250517193107_firstMigration.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Migrations\\20250517193107_firstMigration.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Migrations\\20250517193107_firstMigration.cs",
@@ -698,23 +828,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Migrations\\20250517193107_firstMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:31:07.976Z"
+              "WhenOpened": "2025-05-17T19:31:07.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Portfolio.Core.csproj",
-              "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Portfolio.Core.csproj",
-              "RelativeDocumentMoniker": "Portfolio.Core\\Portfolio.Core.csproj",
-              "ToolTip": "D:\\Projects\\Portfolio.Core\\Portfolio.Core\\Portfolio.Core.csproj",
-              "RelativeToolTip": "Portfolio.Core\\Portfolio.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-17T19:03:51.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "IBlogRepo.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Interfaces\\IBlogRepo.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Interfaces\\IBlogRepo.cs",
@@ -722,11 +841,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Repositories\\Interfaces\\IBlogRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:41:03.257Z"
+              "WhenOpened": "2025-05-17T19:41:03.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\UnitOfWorks\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\UnitOfWorks\\IUnitOfWork.cs",
@@ -734,11 +854,12 @@
               "RelativeToolTip": "Portfolio.DAL\\UnitOfWorks\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:27:39.827Z"
+              "WhenOpened": "2025-05-17T19:27:39.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ICommandRepo.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Interfaces\\Generics\\ICommandRepo.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Interfaces\\Generics\\ICommandRepo.cs",
@@ -746,11 +867,12 @@
               "RelativeToolTip": "Portfolio.DAL\\Repositories\\Interfaces\\Generics\\ICommandRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:19:20.129Z"
+              "WhenOpened": "2025-05-17T19:19:20.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "IQueryRepo.cs",
               "DocumentMoniker": "D:\\Projects\\Portfolio.Core\\Portfolio.DAL\\Repositories\\Interfaces\\Generics\\IQueryRepo.cs",
               "RelativeDocumentMoniker": "Portfolio.DAL\\Repositories\\Interfaces\\Generics\\IQueryRepo.cs",
@@ -758,7 +880,8 @@
               "RelativeToolTip": "Portfolio.DAL\\Repositories\\Interfaces\\Generics\\IQueryRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:19:14.471Z"
+              "WhenOpened": "2025-05-17T19:19:14.471Z",
+              "EditorCaption": ""
             }
           ]
         },

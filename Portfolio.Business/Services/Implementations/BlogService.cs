@@ -31,7 +31,7 @@ namespace Portfolio.Business.Services.Implementations
         public async Task<BlogDto> CreateAsync(CreateBlogDto dto)
         {
             var data = _mapper.Map<Blog>(dto);
-            var newData = await _command.CreateAsync(data); 
+            var newData = await _command.CreateAsync(data);
             await _save.SaveChangesAsync();
             _memory.Set(cacheKey, newData);
             return _mapper.Map<BlogDto>(newData);
@@ -52,11 +52,18 @@ namespace Portfolio.Business.Services.Implementations
             {
                 return _mapper.Map<ICollection<BlogDto>>(cachedDict);
             }
-            var allData = await _query.GetAllAsync(include: q=>q.Include(x=>x.Reviews)).ToListAsync();
-            var mappedData =  _mapper.Map<ICollection<BlogDto>>(allData);
+
+            var allData = await _query.GetAllAsync(
+                include: q => q.Include(x => x.Reviews.OrderByDescending(x=>x.CreatedAt.Date)),
+                orderBy: q => q.OrderByDescending(x => x.CreatedAt.Date)
+            ).ToListAsync();
+
+            var mappedData = _mapper.Map<ICollection<BlogDto>>(allData);
+
             _memory.Set(cacheKey, mappedData);
             return mappedData;
         }
+
 
         public async Task<BlogDto> GetByIdAsync(Guid id)
         {

@@ -15,12 +15,22 @@ namespace Portfolio.WebAPI
             builder.Services.AddSwaggerGen();
             DALServiceRegistration.AddDAL(builder.Services, builder.Configuration);
             DALServiceRegistration.DIRepository(builder.Services);
-            BusinessServiceRegistration.AddBusiness(builder.Services);
+            BusinessServiceRegistration.AddBusiness(builder.Services, builder.Configuration);
             BusinessServiceRegistration.DIServices(builder.Services);
             builder.Services.Configure<AmazonSettings>(builder.Configuration.GetSection("AmazonSettings"));
-
+            builder.Services.AddCors(opt =>
+            {
+                opt.AddPolicy("AllowAll", builder =>
+                {
+                    builder.AllowAnyOrigin()
+                           .AllowAnyMethod()
+                           .AllowAnyHeader();
+                });
+            });
+             
 
             var app = builder.Build();
+            app.UseCors("AllowAll");
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();

@@ -57,6 +57,10 @@ namespace Portfolio.DAL.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("BlogId");
@@ -66,7 +70,7 @@ namespace Portfolio.DAL.Migrations
 
             modelBuilder.Entity("Portfolio.Core.Entities.Blog", b =>
                 {
-                    b.OwnsOne("Portfolio.Core.ValudObjects.CreatedAtVO", "CreatedAt", b1 =>
+                    b.OwnsOne("Portfolio.Core.ValueObjects.CreatedAtVO", "CreatedAt", b1 =>
                         {
                             b1.Property<Guid>("BlogId")
                                 .HasColumnType("uniqueidentifier");
@@ -95,7 +99,7 @@ namespace Portfolio.DAL.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.OwnsOne("Portfolio.Core.ValudObjects.CreatedAtVO", "CreatedAt", b1 =>
+                    b.OwnsOne("Portfolio.Core.ValueObjects.CreatedAtVO", "CreatedAt", b1 =>
                         {
                             b1.Property<Guid>("ReviewId")
                                 .HasColumnType("uniqueidentifier");

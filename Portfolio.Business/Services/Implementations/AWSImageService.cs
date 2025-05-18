@@ -1,6 +1,7 @@
 ﻿
 using Amazon.S3;
 using Amazon.S3.Transfer;
+using Microsoft.Extensions.Options;
 using Portfolio.Business.Helpers.DTOs.FileUpload;
 using Portfolio.Business.Services.Interfaces;
 using Portfolio.Core.Settings;
@@ -12,9 +13,9 @@ namespace Portfolio.Business.Services.Implementations
         private readonly AmazonS3Client _client;
         private readonly AmazonSettings _amazon;
 
-        public AWSImageService(Core.Settings.AmazonSettings amazon)
+        public AWSImageService(IOptions<AmazonSettings> amazon)
         {
-            _amazon = amazon;
+            _amazon = amazon.Value;
 
             var s3Config = new AmazonS3Config
             {

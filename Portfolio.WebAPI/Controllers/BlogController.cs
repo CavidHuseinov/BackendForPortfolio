@@ -22,20 +22,20 @@ namespace Portfolio.WebAPI.Controllers
             var blogAll = await _services.GetAllAsync();
             return Ok(blogAll);
         }
-        [HttpGet("id")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetByIdAsync(Guid id)
         {
             var blogId = await _services.GetByIdAsync(id);
             return Ok(blogId);
         }
         [HttpPost("create")]
-        public async Task<IActionResult> CreateAsync(CreateBlogDto dto)
+        public async Task<IActionResult> CreateAsync([FromForm]CreateBlogDto dto)
         {
             if(!ModelState.IsValid) return BadRequest(ModelState);
             var createBlog = await _services.CreateAsync(dto);
             return Ok(createBlog);
         }
-        [HttpDelete("delete")]
+        [HttpDelete("delete/{id}")]
         public async Task<IActionResult> DeleteAsync(Guid id)
         {
             await _services.DeleteAsync(id);

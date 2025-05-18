@@ -1,5 +1,5 @@
 ﻿
-using Portfolio.Core.ValudObjects;
+using Portfolio.Core.ValueObjects;
 
 namespace Portfolio.Core.Entities.Common
 {

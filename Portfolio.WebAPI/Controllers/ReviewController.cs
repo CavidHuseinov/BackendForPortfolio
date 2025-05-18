@@ -21,7 +21,7 @@ namespace Portfolio.WebAPI.Controllers
             var blogAll = await _services.GetAllAsync();
             return Ok(blogAll);
         }
-        [HttpGet("id")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetByIdAsync(Guid id)
         {
             var blogId = await _services.GetByIdAsync(id);

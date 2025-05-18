@@ -156,3 +156,4 @@ D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\FluentValidation.dl
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\AWSSDK.S3.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll

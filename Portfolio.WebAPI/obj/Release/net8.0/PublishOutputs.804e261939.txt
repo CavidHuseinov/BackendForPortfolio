@@ -5,6 +5,9 @@ D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\Portfo
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\Portfolio.WebAPI.runtimeconfig.json
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\Portfolio.WebAPI.pdb
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\AutoMapper.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\AWSSDK.Core.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\AWSSDK.S3.dll
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\Azure.Identity.dll
 D:\Projects\Portfolio.Core\Portfolio.WebAPI\obj\Release\net8.0\PubTmp\Out\FluentValidation.dll
