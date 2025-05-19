@@ -89,6 +89,37 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Portfolio.WebAPI.Controllers.EmailController",
+    "Method": "SubmitComment",
+    "RelativePath": "api/Email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subject",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Comment",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Portfolio.WebAPI.Controllers.ReviewController",
     "Method": "GetByIdAsync",
     "RelativePath": "api/Review/{id}",

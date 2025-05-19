@@ -25,6 +25,7 @@ namespace Portfolio.Business
             services.AddScoped<IBlogService,BlogService>();
             services.AddScoped<IReviewService,ReviewService>();
             services.AddScoped<IAWSImageService,AWSImageService>();
+            services.AddScoped<IEmailService,EmailService>();
         }
     }
 }
